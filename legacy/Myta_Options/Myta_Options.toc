@@ -1,0 +1,11 @@
+﻿## Interface: 80100
+## Author: cqwrteur 
+## Title: Myta Options
+## LoadOnDemand: 1
+## Dependencies: Myta
+
+Init.lua
+ui\ui.xml
+module\module.xml
+addon\addon.xml
+Core.lua

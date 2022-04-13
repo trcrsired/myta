@@ -1,0 +1,8 @@
+## Interface: 90200
+## Author: cqwrteur
+## Title: Myta Essence Font
+## Version: @project-version@
+## LoadOnDemand: 1
+## X-MYTA: 0
+
+EF.lua

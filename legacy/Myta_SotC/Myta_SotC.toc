@@ -1,0 +1,8 @@
+## Interface: 80100
+## Author: cqwrteur 
+## Title: Myta SotC
+## Dependencies: Myta
+## LoadOnDemand: 1
+## SavedVariables: Myta_SotCDB
+
+Core.lua

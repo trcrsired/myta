@@ -1,0 +1,10 @@
+## Interface: 90200
+## Author: cqwrteur
+## Title: Myta Options
+## LoadOnDemand: 1
+## X-Myta-MESSAGE: Myta_ChatCommand
+
+Libs\AceGUI-3.0-SharedMediaWidgets\widget.xml
+Init.lua
+bar.lua
+grid.lua

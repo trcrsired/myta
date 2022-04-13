@@ -1,0 +1,8 @@
+## Interface: 80100
+## Author: cqwrteur 
+## Title: Myta Revival
+## Dependencies: Myta_Math
+## LoadOnDemand: 1
+## SavedVariables: Myta_RevivalDB
+
+Core.lua

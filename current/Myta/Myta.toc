@@ -1,0 +1,10 @@
+## Interface: 90200
+## Author: cqwrteur
+## Title: Myta
+## Version: @project-version@
+## SavedVariables: MytaDB
+
+
+Init.lua
+bar.lua
+grid.lua

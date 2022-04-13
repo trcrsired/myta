@@ -1,0 +1,7 @@
+## Interface: 80100
+## Author: cqwrteur
+## Title: Myta Math
+## Dependencies: Myta, LibArtifactTraits
+## LoadOnDemand: 1
+
+Core.lua
