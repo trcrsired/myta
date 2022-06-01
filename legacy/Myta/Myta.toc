@@ -1,9 +1,0 @@
-## Interface: 80100
-## Author: cqwrteur
-## Title: Myta
-## SavedVariables: MytaDB
-
-Init.lua
-ui\Core.xml
-module\Core.xml
-Core.lua
